@@ -3,4 +3,4 @@ License to all repositories created by the RainbowFreedomDev members. ***THIS DO
 
 To see the licensing to TotalFreedom repositories, see [TotalFreedom General License] (https://github.com/TotalFreedom/License/blob/master/LICENSE.md).
 
-[LICENSE.md] (LICENSE.md)
+[RainbowFreedomDev General License] (LICENSE.md)
